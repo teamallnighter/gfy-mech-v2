@@ -17,3 +17,8 @@
 .contact{
     margin: 10vh 15vw;;
 }
+
+.nav-link{
+    color: #1b1b1b;
+    text-shadow: 3px 2px 4px rgb(204, 196, 196);
+}
